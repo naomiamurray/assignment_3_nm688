@@ -1,0 +1,18 @@
+---
+title: "Emily"
+author: "Emily"
+date: "2024-09-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Info about Emily
+
+* I have two cats, Goose and Sprout 
+
+* I moved from Yakima, Washington
+
+* I love climbing and backpacking
