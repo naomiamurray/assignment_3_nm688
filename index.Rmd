@@ -1,0 +1,18 @@
+---
+title: "index.Rmd"
+author: "Naomi Murray"
+date: "2024-09-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## A Title
+
+Naomi Murray - https://github.com/naomiamurray  
+Emily Hamant - https://github.com/elhamant
+
+
+![California lupine](https://calscape.org/storage/app/ExtData/allimages/Photos/Lupinus_nanus_image1.jpg)

@@ -1,0 +1,16 @@
+---
+title: "Naomi"
+author: "Naomi Murray"
+date: "2024-09-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Naomi
+
+* First-year PhD student in the Entomology Department
+* Originally from California
+* Really likes plants and bugs!
