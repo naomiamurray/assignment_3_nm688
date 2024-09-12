@@ -6,9 +6,10 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+---
 
 
-### About
+## About {.tabset}
 
 * *I have two cats, Goose and Sprout*
 
@@ -17,9 +18,10 @@ knitr::opts_chunk$set(echo = TRUE)
 * *I love climbing and backpacking*
 
 ---
+
 <br>
 
-### My Cats {.tabset}
+## My Cats
 
 <br>
 
@@ -37,3 +39,29 @@ knitr::opts_chunk$set(echo = TRUE)
 ![Goose](C:/github/NTRES6100/assignment-3-elh255/image000002.jpg){width=300 height=325}
 
 ![Goose's Likeness (perfect orange angel)](https://thumbs.dreamstime.com/z/cute-orange-tabby-cat-angel-halo-standing-image-was-produced-ai-generative-technology-other-software-tools-308961333.jpg){width=400 height=400}
+
+---
+<br>
+
+## Things I miss about Yakima 
+
+<font size="4">
+
+* My Friends 
+
+* Lack of Humidity 
+
+* Climbing outside in the Sun 
+
+* Wine 
+
+* Single Hill Bingo with Claire 
+
+* Seeing Rainier and Adams every day 
+
+* Cascade Hikes 
+
+* Good Mexican Food
+</font>
+
+
