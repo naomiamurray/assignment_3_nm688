@@ -1,7 +1,5 @@
 ---
 title: "Emily"
-author: "Emily"
-date: "2024-09-12"
 output: html_document
 ---
 
@@ -9,10 +7,33 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Info about Emily
 
-* I have two cats, Goose and Sprout 
+### About
 
-* I moved from Yakima, Washington
+* *I have two cats, Goose and Sprout*
 
-* I love climbing and backpacking
+* *I moved from Yakima, Washington*
+
+* *I love climbing and backpacking*
+
+---
+<br>
+
+### My Cats {.tabset}
+
+<br>
+
+#### Sprout
+
+![Sprout](C:/github/NTRES6100/assignment-3-elh255/sprout.jpg){width=500 height=500} 
+
+![Sprout's Likeness (Common Potoo)](https://abcbirds.org/wp-content/uploads/2019/10/Fabio-Maffei-SS.jpg){width=700 height=300}
+
+
+<br>
+
+#### Goose 
+
+![Goose](C:/github/NTRES6100/assignment-3-elh255/image000002.jpg){width=300 height=325}
+
+![Goose's Likeness (perfect orange angel)](https://thumbs.dreamstime.com/z/cute-orange-tabby-cat-angel-halo-standing-image-was-produced-ai-generative-technology-other-software-tools-308961333.jpg){width=400 height=400}
