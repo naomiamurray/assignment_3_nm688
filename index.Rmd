@@ -1,7 +1,5 @@
 ---
-title: "index.Rmd"
-author: "Naomi Murray"
-date: "2024-09-12"
+title: "A Title"
 output: html_document
 ---
 
@@ -9,7 +7,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## A Title
 
 Naomi Murray - https://github.com/naomiamurray  
 Emily Hamant - https://github.com/elhamant

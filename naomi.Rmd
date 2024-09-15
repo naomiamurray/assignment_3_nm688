@@ -1,7 +1,5 @@
 ---
 title: "Naomi"
-author: "Naomi Murray"
-date: "2024-09-12"
 output: html_document
 ---
 
@@ -9,7 +7,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Naomi
 
 * First-year PhD student in the Entomology Department
 * Originally from California

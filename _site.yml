@@ -1,5 +1,6 @@
-output_dir: "."
+name: "Naomi_Website"
 navbar:
+  title: "Naomi's Website" 
   left:
     - text: "Home"
       href: index.html
@@ -7,3 +8,10 @@ navbar:
       href: naomi.html
     - text: "Emily"
       href: Emily.html  
+output_dir: "."
+output: 
+  html_document: 
+    theme: paper
+    highlight: textmate
+    toc: true
+    toc_float: true
