@@ -1,6 +1,6 @@
 name: "Naomi_Website"
 navbar:
-  title: "Naomi's Website" 
+  title: "Assignment 3" 
   left:
     - text: "Home"
       href: index.html
