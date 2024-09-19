@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Sprout
 
-![Sprout](C:/Users/murra/Documents/Data_Management/ntres-6100-fa2024-naomiamurray/assignment_3_nm688/sprout.jpg){width=500 height=500} 
+![Sprout](sprout.jpg){width=500 height=500} 
 
 ![Sprout's Likeness (Common Potoo)](https://abcbirds.org/wp-content/uploads/2019/10/Fabio-Maffei-SS.jpg){width=700 height=300}
 
@@ -36,7 +36,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Goose 
 
-![Goose](C:/Users/murra/Documents/Data_Management/ntres-6100-fa2024-naomiamurray/assignment_3_nm688/image000002.jpg){width=300 height=325}
+![Goose](image000002.jpg){width=300 height=325}
 
 ![Goose's Likeness (perfect orange angel)](https://thumbs.dreamstime.com/z/cute-orange-tabby-cat-angel-halo-standing-image-was-produced-ai-generative-technology-other-software-tools-308961333.jpg){width=400 height=400}
 
